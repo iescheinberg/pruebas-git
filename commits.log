@@ -1,0 +1,98 @@
+commit 30dea8553679758f146350ed191882442206c1ec
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:45:00 2024 -0300
+
+    Agregando 2 párrafos
+
+commit 7e43dd5e622625c79b3d16dea5574e32e3f6ccad
+Merge: b5cc9b1 c3b97e3
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:42:18 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de incio
+
+commit b5cc9b1fa4edc89d596a92d35e793e51c78dc796
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:27:59 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c3b97e38adb08cc50a257f72512a1fb1ba911172
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:27:59 2024 -0300
+
+    Agregando las estaciones del año
+
+commit 6e89486f42ccd09cd677b07c1fd2b0be39c2d613
+Merge: 09e3fae 626648d
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:16:37 2024 -0300
+
+    Resolviendo conflictomerge main/html en index.html
+
+commit 626648d45b0bba2296d7a65a811a323d91ae5fb0
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:09:56 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 09e3fae846644d85253824f4fc81727bfb613c38
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 17:07:41 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 39736bd61a82749221af83d27ae3d015e3b95ad7
+Merge: aa358d1 2f1757a
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 16:40:33 2024 -0300
+
+    Merge branch 'js'
+
+commit 2f1757a41e9da5fd45299a5f2946ea0ca69747ca
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 16:31:44 2024 -0300
+
+    Creando index.js
+
+commit aa358d1d7c61b2faebd3418f381dd71a5bbeb2f3
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 16:27:42 2024 -0300
+
+    Creando style.css
+
+commit 2ac0b45b836dc59b26d4ece709bafaf43d1d0277
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 16:23:08 2024 -0300
+
+    Creando Archivo index.html
+
+commit abbd1d845a6b3b0cbad27e23bb0373114a8cae37
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 16:09:46 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 569b1d9ce17fff9b7a28f8c2be4df71af31e5709
+Author: Isaac Ezequiel Scheinberg <117692336+iescheinberg@users.noreply.github.com>
+Date:   Wed Feb 28 14:47:09 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 5c793b94439813790172208cea04cc2cb89bfaed
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 14:41:28 2024 -0300
+
+    Agregando mas contenido al README
+
+commit bf5cabe5af5db33db557fd948f5f6c68ddced971
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 14:29:17 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit 52641d3eb2feb2d5a56556f974343fee74c92fe9
+Author: Sscheinberg <agr.scheinberg@gmail.com>
+Date:   Wed Feb 28 14:23:04 2024 -0300
+
+    Primer commit 😀
